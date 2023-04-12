@@ -1,0 +1,3 @@
+[submodule "2.Firmware"]
+	path = 2.Firmware
+	url = https://github.com/scilifen/NTU_icar_23_Firmware.git
