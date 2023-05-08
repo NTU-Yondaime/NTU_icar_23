@@ -4,3 +4,6 @@
 [submodule "1.Hardware"]
 	path = 1.Hardware
 	url = https://github.com/scilifen/NTU_icar_23_PCB.git
+[submodule "3.Software/PathPlanner"]
+	path = 3.Software/PathPlanner
+	url = https://github.com/NTU-Yondaime/NTU_icar_23_PathPlanner.git
